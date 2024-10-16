@@ -4,3 +4,8 @@ package-lock.json
 *.env
 scripts
 .vs
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
